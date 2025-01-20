@@ -3,8 +3,14 @@ This project explores the relationship between climate-driven natural disasters 
 
 The goal is to uncover how the financial burden of natural disasters correlates with medical insurance premiums, identify demographic and regional disparities, and provide insights to aid stakeholders in addressing these challenges.
 
+<br>
+
+---
+
 ### Problem Statement
 The increasing frequency and severity of climate-driven natural disasters pose significant economic challenges, including rising medical insurance premiums. This research aims to address key questions regarding the impact of these disasters on insurance costs, particularly examining the disparities across demographics and geographic regions.
+
+<br>
 
 ---
 
@@ -21,6 +27,17 @@ _By the end of this analysis, the expectation is to:_
 1. **Present data-driven conclusions** on the economic implications of natural disasters for insured populations and plan providers.
 2. **Highlight high-risk*regions and demographic groups** disproportionately affected by premium increases.
 3. **Deliver visualizations and summaries** to enhance stakeholder understanding.
+<br>
+
+---
+
+### Deliverables
+
+**Comprehensive Research Report:** This research-oriented report goes into greater details about the research design, methods, and calculations. The document is intended to provide an audience with a technical background an overview of how the project was structured, including the research steps, variables considered, methodological decisions, data limitations, and detailed results.
+
+**Data Analysis Report:** This summarized version of the "Comprehensive Research Report" provides non-technical audiences with a high-level overview of the project's key results and actionable insights to support decision-making.
+
+<br>
 
 ---
 
@@ -29,6 +46,8 @@ _By the end of this analysis, the expectation is to:_
 - **Python / R:** Statistical analysis, including regression, time series, and ANOVA.
 - **Excel:** Data organization and preparation.
 - **Tableau:** Visualization of findings for presentation and stakeholder communication.
+  
+<br>
   
 ---
 
